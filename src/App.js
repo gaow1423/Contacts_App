@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Contacts from './components/contacts/Contacts';
@@ -42,7 +42,7 @@ class App extends Component {
     // }
     return (
       <Provider>
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router>
           <div className="App">
             <Header branding="Contact Manager" />
             <div className="container">
