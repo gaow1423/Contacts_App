@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/Contacts.App/static/js/runtime~main.c7a66be4.js"
   },
   {
-    "revision": "192df18ce68175a4d9d9",
-    "url": "/Contacts.App/static/js/main.192df18c.chunk.js"
+    "revision": "4b8a7aa528fc874a316a",
+    "url": "/Contacts.App/static/js/main.4b8a7aa5.chunk.js"
   },
   {
     "revision": "d8ec8089e4f1f01529eb",
     "url": "/Contacts.App/static/js/1.d8ec8089.chunk.js"
   },
   {
-    "revision": "192df18ce68175a4d9d9",
+    "revision": "4b8a7aa528fc874a316a",
     "url": "/Contacts.App/static/css/main.35319555.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Contacts.App/static/css/1.71a2d823.chunk.css"
   },
   {
-    "revision": "e8d8be920cb233f1c348447824948a10",
+    "revision": "ca8a5dd205f7a562b6835ed67ffeef35",
     "url": "/Contacts.App/index.html"
   }
 ];
