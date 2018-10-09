@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gaow1423.github.io/Contacts.App",
+  "homepage": "https://gaow1423.github.io/Contacts_App",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",
