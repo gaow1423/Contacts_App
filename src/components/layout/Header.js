@@ -23,7 +23,7 @@ const Header = props => {
         {/* <a href="/" className="navbar-brand" style={headingStyle}>
           {branding}
         </a> */}
-        <Link to="/contact-manager" className="navbar-brand">
+        <Link to="/" className="navbar-brand">
           {branding}
         </Link>
         <div>
